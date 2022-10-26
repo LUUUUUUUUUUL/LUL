@@ -30,12 +30,12 @@ export default function BottomAppBar(props) {
         className={classes.appBar}
       >
         <Toolbar className={classes.toolbar}>
-          <a href="https://stagbin.tk" style={{ color: "inherit" }}>
-            <small>&copy; Copyright 2021, LUL</small>
+          <a href="https://lul.mx" style={{ color: "inherit" }}>
+            <small>&copy; Copyright 2023, LUL</small>
           </a>
           <div style={{ margin: "8px" }}>
-            <a href="https://github.com/StagBin" style={{ color: "inherit" }}>
-              <h4 style={{ margin: 0 }}>Source</h4>
+            <a href="https://lul.mx" style={{ color: "inherit" }}>
+              <h4 style={{ margin: 0 }}>LUL</h4>
             </a>
           </div>
         </Toolbar>
