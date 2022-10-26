@@ -16,7 +16,7 @@ export default function BottomBar(props) {
       >
         <Link to="/" className="navbar-brand">
           {" "}
-          <small>&copy; Copyright 2021, LUL</small>{" "}
+          <small>&copy; Best Regards, LUL</small>{" "}
         </Link>
       </nav>
     </div>
