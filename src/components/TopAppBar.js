@@ -123,7 +123,7 @@ export default function BackToTop(props) {
             href="base_url"
             style={{ color: "inherit", textDecoration: "none" }}
           >
-            <img src={logo} alt={"StagBIN"} style={{ width: "100px" }} />
+            <img src={logo} alt={"lul.mx"} style={{ width: "100px" }} />
             {/* <Typography variant="h6">StagBIN</Typography> */}
           </a>
           <FormControl>
